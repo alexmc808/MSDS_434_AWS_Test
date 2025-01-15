@@ -1,1 +1,1 @@
-Print "Hello, World!" using Python.
+Print "Hello, California!" using Python.
