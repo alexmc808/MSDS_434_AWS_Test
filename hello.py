@@ -1,1 +1,1 @@
-print("Hello, California!")
+print("Hello, Northwestern!")
